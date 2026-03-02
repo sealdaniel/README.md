@@ -11,8 +11,8 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e impactantes. T
 
 ## Projetos Destacados
 
-- [Nome do Projeto 1]: [Senai]( https://github.com/sealdaniel/senai_codificacao) 
-- [Nome do Projeto 2]: Em breve outra descrição de projeto.
+- [Codifiação WEB Site de vendas]: [Senai]( https://github.com/sealdaniel/senai_codificacao) 
+- [Sistema de Agendamento clínica]: Em breve outra descrição de projeto.
 
 ## Habilidades em aprendizado
 - Linguagens:
